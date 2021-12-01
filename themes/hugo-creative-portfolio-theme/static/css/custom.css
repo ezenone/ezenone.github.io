@@ -27,6 +27,22 @@ body {
         background-color: #0c0c0c;
       }
 
+.box-masonry {
+  background: #0c0c0c; 
+  margin-bottom: 30px;
+  position: relative;
+  box-shadow: none;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}  
+
+.box-masonry:hover {
+  box-shadow: none;
+}
+
 .contact-form {
         margin-bottom: 20px;
       }
@@ -92,19 +108,8 @@ body {
       p.social.social--big i {
         line-height: 60px;
       }
-    .box-masonry {
-        background: #0c0c0c; 
-        margin-bottom: 30px;
-        position: relative;
-        box-shadow: none;
-        -webkit-transition: all 0.2s ease-out;
-        -moz-transition: all 0.2s ease-out;
-        transition: all 0.2s ease-out;
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }  
-    
-    .box-masonry:hover {
-        box-shadow: none;
-    }
+}
+
+.sidebar-heading a {
+  color: #ef5285;
 }
