@@ -76,7 +76,7 @@ body {
       }
       p.social a:hover {
         color: #ffe0ea;
-        border-color: #ef5285;
+        border-color: #ffe0ea;
       }
       p.social a i {
         vertical-align: bottom;
@@ -87,8 +87,8 @@ body {
       }
       
       p.social.social--outline a.instagram {
-        color: #cd4378;
-        border-color: #cd4378;
+        color: #ffe0ea;
+        border-color: #ffe0ea;
       }
       p.social.social--outline a.email {
         color: #4a7f45;
