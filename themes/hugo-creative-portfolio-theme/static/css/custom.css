@@ -111,5 +111,15 @@ body {
 }
 
 .sidebar-heading a {
-  color: #ef5285;
+  color: #d0e7fa;
+}
+.content-column.white-background {
+  background: #1d232c;
+  min-height: 100vh;
+}
+h1 {
+  ont-family: "Roboto", Helvetica, Arial, sans-serif;
+font-weight: 700;
+line-height: 1.2;
+color: #d6deee;
 }
