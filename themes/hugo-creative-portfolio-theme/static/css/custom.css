@@ -91,8 +91,8 @@ body {
         border-color: #ffe0ea;
       }
       p.social.social--outline a.email {
-        color: #4a7f45;
-        border-color: #4a7f45;
+        color: #ffe0ea;
+        border-color: #ffe0ea;
       }
       p.social.social--outline a.link {
         color: #871AFF;
@@ -172,4 +172,7 @@ font-family: "Roboto", Helvetica, Arial, sans-serif;
 font-weight: 700;
 line-height: 1.2;
 color: #d6deee;
+}
+h4 {
+  color: #d6deee
 }
