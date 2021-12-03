@@ -13,13 +13,14 @@ title = "About me"
 
 ##### Logiciels
 
- Photoshop
- Illustrator
+• Photoshop
+• Illustrator
 • Indesign
 • After Effect
 • Processing
 • Character Animator
 • Première Pro
+
 #### Education 
 
 2020 - 2023 : DNMADE Design graphique, mention éditon, narration, intéractivité - Marseille
